@@ -1,1 +1,25 @@
-# UFOs
+UFOs
+
+Overview
+In this module, we focused on creating a dynamic webpage that can accept different inputs and be able to display information about UFO sightings.
+
+Results
+
+To perform a search, you come across the main webpage and on the left of the screen there is a section to filter search certain information you want to look at.
+
+/var/folders/81/y7l058tn1jnfnp9zhympngwh0000gn/T/TemporaryItems/NSIRD_screencaptureui_bvDtGh/Screen Shot 2022-01-16 at 6.12.06 PM.png
+
+From this section, you can filter out by entering a date you want to look at.When I filter out the date 1/11/2010, you will see the results of all UFO sightings from that date
+ 
+/Users/indiascott/Desktop/Screen Shot 2022-01-16 at 6.17.18 PM.png
+
+If you want to look at UFO sightings based on their shape, you can enter the shape in the search box. I wanted to look at sightings that formed a triangle, so I searched based on the shape of a triangle and then I would get results of UFO sightings that formed a triangle. 
+
+/Users/indiascott/Desktop/Screen Shot 2022-01-16 at 6.17.18 PM.png
+
+With the filtered search, you can look up any information based on the shape, the date, or location of the sightings. 
+
+Summary
+-One drawback of the filter search is that the user might not know what city to search for, so they would have to look for a city that is included in the analysis
+-one recommendation, would to include a dropdown list that includes all the filter values a user can select from
+-A nice design feature could include a clear all filter button, so we won't have to have the user delete each search field 
