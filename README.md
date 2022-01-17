@@ -7,11 +7,11 @@ Results
 
 To perform a search, you come across the main webpage and on the left of the screen there is a section to filter search certain information you want to look at.
 
-/var/folders/81/y7l058tn1jnfnp9zhympngwh0000gn/T/TemporaryItems/NSIRD_screencaptureui_bvDtGh/Screen Shot 2022-01-16 at 6.12.06 PM.png
+![image](https://user-images.githubusercontent.com/92649982/149700331-70270726-5194-4035-a516-b14c787d169f.png)
 
 From this section, you can filter out by entering a date you want to look at.When I filter out the date 1/11/2010, you will see the results of all UFO sightings from that date
  
-/Users/indiascott/Desktop/Screen Shot 2022-01-16 at 6.17.18 PM.png
+![image](https://user-images.githubusercontent.com/92649982/149700115-12bb8055-6a0c-4174-bc5b-886a2190e86a.png)
 
 If you want to look at UFO sightings based on their shape, you can enter the shape in the search box. I wanted to look at sightings that formed a triangle, so I searched based on the shape of a triangle and then I would get results of UFO sightings that formed a triangle. 
 
