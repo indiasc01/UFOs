@@ -11,7 +11,7 @@ To perform a search, you come across the main webpage and on the left of the scr
 
 From this section, you can filter out by entering a date you want to look at.When I filter out the date 1/11/2010, you will see the results of all UFO sightings from that date
  
-![image](https://user-images.githubusercontent.com/92649982/149700115-12bb8055-6a0c-4174-bc5b-886a2190e86a.png)
+![image](https://user-images.githubusercontent.com/92649982/149700538-99105fea-51f5-4d60-a29b-8740d5d731ee.png)
 
 If you want to look at UFO sightings based on their shape, you can enter the shape in the search box. I wanted to look at sightings that formed a triangle, so I searched based on the shape of a triangle and then I would get results of UFO sightings that formed a triangle. 
 
