@@ -15,7 +15,7 @@ From this section, you can filter out by entering a date you want to look at.Whe
 
 If you want to look at UFO sightings based on their shape, you can enter the shape in the search box. I wanted to look at sightings that formed a triangle, so I searched based on the shape of a triangle and then I would get results of UFO sightings that formed a triangle. 
 
-/Users/indiascott/Desktop/Screen Shot 2022-01-16 at 6.17.18 PM.png
+![image](https://user-images.githubusercontent.com/92649982/149699816-4975e91b-78d3-4771-b1e6-482db13d8524.png)
 
 With the filtered search, you can look up any information based on the shape, the date, or location of the sightings. 
 
